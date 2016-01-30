@@ -1,6 +1,6 @@
 name: testseite
 favicon: null
-layout_spectrum: 0.22225
+layout_spectrum: 0.73623
 typography_spectrum: 0.0636
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#598b9f'
     - '#c88966'
     - '#3d3c42'
-  brandStrength: 0.7389637345913798
-  lightness: 0.1265133915003389
-  saturation: 0.9346148443873972
-  rhythmicContrast: 0.9962459767702967
+  brandStrength: 0.6875
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
